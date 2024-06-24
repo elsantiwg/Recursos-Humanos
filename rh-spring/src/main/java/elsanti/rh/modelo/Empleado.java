@@ -1,4 +1,4 @@
-package modelo;
+package elsanti.rh.modelo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
